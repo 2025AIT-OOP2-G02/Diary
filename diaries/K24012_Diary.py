@@ -9,4 +9,4 @@ class K24012_Diary(AbstractDiary):
         return "大変な一日だった"
 
     def get_author(self):
-        return "k24012"
+        return "K24012"
