@@ -1,6 +1,7 @@
 from diaries.DiarySample import DiarySample
 from diaries.nakamotoDiary import nakamotoDiary
 
+
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
     DiarySample(),
